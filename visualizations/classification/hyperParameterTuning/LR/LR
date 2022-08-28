@@ -1,0 +1,47 @@
+For hyper parameters 1: alpha=0.1, learning_rate='optimal'
+Model Name: LR
+----------------------------------
+
+Confusion Matrix:
+---------------
+1554 | 61
+---------------
+0 | 1745
+---------------
+
+Accuracy: 0.9818
+Precision: 1.0000
+Recall: 0.9622
+F1 Score: 0.9808
+
+For hyper parameters 2: alpha=0.01,learning_rate='adaptive',eta0=0.5
+Model Name: LR
+----------------------------------
+
+Confusion Matrix:
+---------------
+0 | 1610
+---------------
+0 | 1740
+---------------
+
+Accuracy: 0.5194
+Precision: 0.0
+Recall: 0.0000
+F1 Score: 0.0
+
+For hyper parameters 3: alpha=0.0001,learning_rate='adaptive'
+Model Name: LR
+----------------------------------
+
+Confusion Matrix:
+---------------
+2 | 1608
+---------------
+0 | 1740
+---------------
+
+Accuracy: 0.5200
+Precision: 1.0000
+Recall: 0.0012
+F1 Score: 0.0025

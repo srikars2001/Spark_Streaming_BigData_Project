@@ -1,0 +1,4 @@
+HyperParameters,Accuracy,F1 Score
+"C=0.5,loss=""hinge""",0.95,0.95
+"C=1,loss=""hinge""",0.7706,0.686
+"C=0.5,loss=""squared-hinge""",0.74,0.62

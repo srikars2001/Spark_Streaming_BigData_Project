@@ -1,0 +1,3 @@
+Preprocessing Method,Accuracy,F1 Score
+TF-IDF,0.9994,0.9994
+Word2Vec,0.5145,0.05

@@ -1,0 +1,47 @@
+For hyper parameters 1: activation='logistic', solver='adam',learning_rate='constant',max_iter=200
+Model Name: MLP
+----------------------------------
+
+Confusion Matrix:
+---------------
+1613 | 2
+---------------
+0 | 1745
+---------------
+
+Accuracy: 0.9994
+Precision: 1.0000
+Recall: 0.9987
+F1 Score: 0.9994
+
+For hyper parameters 2: activation='relu',solver='sgd',learning_rate='adaptive',max_iter=200
+Model Name: MLP
+----------------------------------
+
+Confusion Matrix:
+---------------
+0 | 1145
+---------------
+0 | 1235
+---------------
+
+Accuracy: 0.5189
+Precision: nan
+Recall: 0.0000
+F1 Score: nan
+
+For hyper parameters 3: activation='relu',solver='sgd',learning_rate='constant',max_iter=200
+Model Name: MLP
+----------------------------------
+
+Confusion Matrix:
+---------------
+496 | 652
+---------------
+0 | 1220
+---------------
+
+Accuracy: 0.7247
+Precision: 1.0000
+Recall: 0.4321
+F1 Score: 0.6034

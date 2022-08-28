@@ -1,0 +1,23 @@
+real    18m45.162s
+user    28m23.682s
+sys     1m55.627s
+
+Model Name: MLP
+----------------------------------
+
+Confusion Matrix:
+---------------
+30 | 1082
+---------------
+59 | 1179
+---------------
+
+Accuracy: 0.5145
+Precision: 0.3371
+Recall: 0.0270
+F1 Score: 0.0500
+
+real    17m4.574s
+user    27m58.474s
+sys     2m28.234s
+

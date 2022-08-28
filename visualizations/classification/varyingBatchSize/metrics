@@ -1,0 +1,31 @@
+For MLP:
+
+For Batch Size 50:
+Confusion Matrix:
+---------------
+1607 | 3
+---------------
+0 | 1740
+---------------
+
+Accuracy: 0.9991
+F1 Score: 0.9991
+
+For batch Size 70:
+Model Name: MLP
+----------------------------------
+
+Confusion Matrix:
+---------------
+1613 | 2
+---------------
+0 | 1745
+---------------
+
+Accuracy: 0.9994
+Precision: 1.0000
+Recall: 0.9987
+F1 Score: 0.9994
+
+For batch size 200:
+ 

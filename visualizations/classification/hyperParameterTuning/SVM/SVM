@@ -1,0 +1,48 @@
+For Hyper Parameter 1: alpha=0.1, learning_rate='optimal'
+Model Name: SVM
+----------------------------------
+
+Confusion Matrix:
+---------------
+1613 | 2
+---------------
+1745 | 0
+---------------
+
+Accuracy: 0.4801
+Precision: 0.4803
+Recall: 0.9988
+F1 Score: 0.6487
+
+For Hyper Parameter 2:
+
+Model Name: SVM
+----------------------------------
+
+Confusion Matrix:
+---------------
+0 | 1610
+---------------
+0 | 1740
+---------------
+
+Accuracy: 0.5194
+Precision: nan
+Recall: 0.0000
+F1 Score: nan
+
+For Hyper Parameter 3:
+Model Name: SVM
+----------------------------------
+
+Confusion Matrix:
+---------------
+1534 | 76
+---------------
+0 | 1740
+---------------
+
+Accuracy: 0.9773
+Precision: 1.0000
+Recall: 0.9528
+F1 Score: 0.9758

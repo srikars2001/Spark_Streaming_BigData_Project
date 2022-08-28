@@ -1,0 +1,14 @@
+For batch size 50:
+real    177m5.417s
+user    236m19.772s
+sys     18m54.461s
+
+For batch size 60:
+real    157m22.152s
+user    325m25.007s
+sys     16m9.352s
+
+For batch size 70:
+real    237m33.052s
+user    641m49.661s
+sys     18m29.011s

@@ -1,0 +1,3 @@
+Batch Size,Accuracy,F1 Score
+Batch Size 50,0.9991,0.9991
+Batch Size 70,0.9994,0.9994

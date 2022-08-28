@@ -1,0 +1,4 @@
+HyperParameters,Accuracy,F1 Score
+"activation='logistic', solver='adam',learning_rate='constant',max_iter=200",0.9994,0.9994
+"activation='relu',solver='sgd',learning_rate='adaptive',max_iter=200",0.5189,0
+"activation='relu',solver='sgd',learning_rate='constant',max_iter=200",0.7247,0.6034
